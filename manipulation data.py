@@ -60,5 +60,5 @@ def putresult(plotRatio,transactionDate,openingDate,floorPrice):
     Price_3 = e[0, 2]
     Price_6 = e[0, 3]
     return openingPrice,Price_1,Price_3,Price_6
-
+#测试一个实例，关于如何使用，另外修改算法只需要修改几个csv文件矩阵的数据
 e,e1,e3,e6=putresult(1.5,2013.8,2016.8,6000)
