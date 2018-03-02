@@ -7,9 +7,9 @@ Respectively in the new.csv and std_mean.csv files
 The first time a machine learning algorithm, there are many problems, I urge Members to understand
 
 不涉及算法的人士
-请直接使用  manipulation data.py 文件
+请直接使用  manipulation data.py   new1.csv new2.csv  std_mean.csv 这三个文件
 这个文件致力于解决成都房价评估1-6个月的
-neural.py文件用于得出数据矩阵 ，使用了机器学习的算法属于scip
+neural.py文件用于得出数据矩阵 ，使用了机器学习的算法属于scipy
 在这里我已经给出现成计算好的矩阵了
 分别在new.csv和std_mean.csv文件里
 第一次做机器学习算法，还有很多问题，恳请大家谅解
