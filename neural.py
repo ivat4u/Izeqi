@@ -5,6 +5,7 @@
 #floorPrice   地均价
 #openingPrice 开盘价格
 # Price_1 Price_3 Price_6 开盘1、3、6月价格
+#本算法主要用于得出矩阵数据（模型训练），本文件是！！！！非必要文件！！！！
 
 import matplotlib.pyplot as plt
 from scipy.io import loadmat
